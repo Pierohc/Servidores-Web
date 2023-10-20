@@ -43,8 +43,34 @@ Los href, ir de una pagina a otra con botones es un get. Vinculos entre paginas 
 
 ![image](https://github.com/Pierohc/Servidores-Web/assets/133154904/ba0def15-d72f-4ef1-af84-e481bdc66897)
 
+----------------------------
+## Agregar una nueva clase Servlet:
+
+![image](https://github.com/Pierohc/Servidores-Web/assets/133154904/34c03472-8293-44a5-9a69-0471c58dd6c2)
+
+----------------------
+
+## Agregar codigo SQL. Va en esta parte:
+
+Debemos agregar la dependencia de SQL en el archivo pom, y refrescar Maven.
+
+![image](https://github.com/Pierohc/Servidores-Web/assets/133154904/ed7f91d2-1528-4410-8af4-4a24cc99785d)
+
+![image](https://github.com/Pierohc/Servidores-Web/assets/133154904/104dcfb6-bfb2-4fbd-a0a0-08db5c6fbb07)
+
+![image](https://github.com/Pierohc/Servidores-Web/assets/133154904/081d6498-80ef-49ad-92ab-f2abbdb5782b)
+
+
 ----------------------
 
 # MVC:
-Debemos agregar la dependencia de SQL en el archivo pom, y refrescar Maven.
+
+![image](https://github.com/Pierohc/Servidores-Web/assets/133154904/083dbaa0-6ba8-449f-9af6-bc7bb44c4a55)
+
+![image](https://github.com/Pierohc/Servidores-Web/assets/133154904/a14d54e6-9c51-40bb-ab40-d1ff291c8ab7)
+
+Todo lo que tenga que ver con base de datos va en los DAOS. Lo recomendable esc rear un dao por cada tabla.
+
+Lo que viaja entre las capas son los beans.
+Un bean en la representacion de ima tabla de base de datos en Java.
 
