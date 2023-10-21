@@ -74,3 +74,6 @@ Todo lo que tenga que ver con base de datos va en los DAOS. Lo recomendable esc 
 Lo que viaja entre las capas son los beans.
 Un bean en la representacion de ima tabla de base de datos en Java.
 
+------------------------------
+Todo enlace. href, debe hacia un controlador, es decir, hacia un Servlet.
+
