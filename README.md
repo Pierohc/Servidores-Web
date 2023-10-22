@@ -75,11 +75,14 @@ Lo que viaja entre las capas son los beans.
 Un bean en la representacion de ima tabla de base de datos en Java.
 
 ------------------------------
-Todo enlace. href, debe hacia un controlador, es decir, hacia un Servlet.
+Todo enlace, href, debe ir hacia un controlador, es decir, hacia un Servlet.
 
 ------------------
 Para un formulario:
 
 ![image](https://github.com/Pierohc/Servidores-Web/assets/133154904/19a86b42-5e51-49b1-ac58-ebb96eb9e54e)
 
+--------------------
+Bean(Job) -> el objeto
+Dao(JobDao) -> 
 
